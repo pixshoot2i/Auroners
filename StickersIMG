@@ -1,3 +1,14 @@
-2
-https://github.com/pixshoot2i/Auroners/blob/master/STK-20190507-WA0022.webp
-https://github.com/pixshoot2i/Auroners/blob/master/STK-20190507-WA0022.webp
+{
+    Data: [
+        {
+            "jpg": "https://github.com/pixshoot2i/Auroners/blob/master/poeta.png",
+            "png": "https://github.com/pixshoot2i/Auroners/blob/master/poeta.png",
+            "text": "Es un poeta"
+        }, 
+        {
+            "jpg": "https://github.com/pixshoot2i/Auroners/blob/master/miedo.png",
+            "png": "https://github.com/pixshoot2i/Auroners/blob/master/miedo.png",
+            "text": "Miedo"
+        }
+    ]
+}
